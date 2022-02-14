@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raime.Facts.Web", "Raime.Facts.Web\Raime.Facts.Web.csproj", "{FA7EE833-C186-4A11-BDB1-E78F7B627608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7EE833-C186-4A11-BDB1-E78F7B627608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7EE833-C186-4A11-BDB1-E78F7B627608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7EE833-C186-4A11-BDB1-E78F7B627608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7EE833-C186-4A11-BDB1-E78F7B627608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B2EE7B-4EB3-4E30-BE18-47D75DD491E1}
+	EndGlobalSection
+EndGlobal
